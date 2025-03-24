@@ -1,7 +1,9 @@
 # LLM-Projects
-Project on text generation using the Hugging Face model facebook/opt-125m! and GPT-2 model Leveraging the powerful ultrachat_200k dataset
+Project on text generation using the Hugging Face model facebook/opt-125m! and GPT-2 model Leveraging the powerful ultrachat_200k dataset.
 
-Dataset Link - https://huggingface.co/datasets/HuggingFaceH4/ultrachat_200k
+Note:: Download the repo and used GPT2rebuild.py file only, opt125 model is just for practise purpose. 
+
+Dataset - https://huggingface.co/datasets/HuggingFaceH4/ultrachat_200k
 
 
 Overview:
