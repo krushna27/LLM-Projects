@@ -4,7 +4,7 @@ Project on text generation using the Hugging Face model facebook/opt-125m! and G
 Note:: Download the repo and used GPT2rebuild.py file only, opt125 model is just for practise purpose. 
 
 Dataset - https://huggingface.co/datasets/HuggingFaceH4/ultrachat_200k
-
+Live code - https://gpttxtgen.streamlit.app/
 
 Overview:
 Developed and deployed a text generation application leveraging a fine-tuned GPT-2 model for generating domain-specific responses based on a custom dataset. The project focused on utilizing advanced NLP techniques, fine-tuning pre-trained LLMs, and building a user-friendly deployment interface.
